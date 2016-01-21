@@ -1,0 +1,36 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "Morveus",
+    "longName": "HomeAssistant Remote for Pebble",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/homeassistant.png",
+                "menuIcon": true,
+                "name": "IMAGE_HOME_ASSISTANT",
+                "targetPlatforms": [
+                    "aplite",
+                    "basalt",
+                    "chalk"
+                ],
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "HomeAssistant Remote",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "1a82907f-e2f0-4a41-80f3-48ff53d7b176",
+    "versionLabel": "0.1",
+    "watchapp": {
+        "watchface": false
+    }
+}
